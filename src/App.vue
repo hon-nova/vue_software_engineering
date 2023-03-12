@@ -5,7 +5,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+// WHEN YOU ARE USING ESLINT YOU MIGHT GET SOME ERRORS WHEN DEBUG, BE MINDFUL TO DISABLE ESLINT
 export default {
   name: 'App',
   components: {
